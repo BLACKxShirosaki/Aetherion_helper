@@ -768,6 +768,9 @@ textarea {
 .tal-carte p { margin: 0; font-weight: 500; font-size: 12px; line-height: 1.55; color: var(--texte, #3C3733); }
 @media (max-width: 860px) { .tal-grille { grid-template-columns: 1fr 1fr; } }
 
+.tal-carte summary { margin: 0; font-weight: 500; font-size: 12px; line-height: 1.55; color: var(--texte, #3C3733); }
+@media (max-width: 860px) { .tal-grille { grid-template-columns: 1fr 1fr; } }
+
 
 /* — 16g. Pokédex : tour à étages (remplace la carte plate) — */
 .dex-tour {
